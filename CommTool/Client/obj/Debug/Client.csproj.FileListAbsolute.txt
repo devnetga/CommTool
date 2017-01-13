@@ -8,3 +8,4 @@ D:\TRASHCAN\commtool\CommTool\Host\obj\Debug\Host.exe
 D:\TRASHCAN\commtool\CommTool\Host\obj\Debug\Host.pdb
 D:\TRASHCAN\commtool\CommTool\Host\obj\Debug\Host.ProjectInstaller.resources
 D:\TRASHCAN\commtool\CommTool\Host\bin\Debug\Client.exe.config
+D:\TRASHCAN\commtool\CommTool\Client\bin\Debug\Client.exe.config
