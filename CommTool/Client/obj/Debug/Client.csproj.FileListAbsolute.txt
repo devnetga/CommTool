@@ -1,0 +1,10 @@
+D:\TRASHCAN\commtool\CommTool\Host\bin\Debug\Host.exe.config
+D:\TRASHCAN\commtool\CommTool\Host\bin\Debug\Host.exe
+D:\TRASHCAN\commtool\CommTool\Host\bin\Debug\Host.pdb
+D:\TRASHCAN\commtool\CommTool\Host\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\TRASHCAN\commtool\CommTool\Host\obj\Debug\Host.ClientService.resources
+D:\TRASHCAN\commtool\CommTool\Host\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\TRASHCAN\commtool\CommTool\Host\obj\Debug\Host.exe
+D:\TRASHCAN\commtool\CommTool\Host\obj\Debug\Host.pdb
+D:\TRASHCAN\commtool\CommTool\Host\obj\Debug\Host.ProjectInstaller.resources
+D:\TRASHCAN\commtool\CommTool\Host\bin\Debug\Client.exe.config

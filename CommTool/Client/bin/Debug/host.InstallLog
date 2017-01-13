@@ -1,0 +1,21 @@
+﻿어셈블리 'D:\TRASHCAN\commtool\CommTool\Host\bin\Debug\host.exe'을(를) 설치하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = 
+   logfile = D:\TRASHCAN\commtool\CommTool\Host\bin\Debug\host.InstallLog
+   assemblypath = D:\TRASHCAN\commtool\CommTool\Host\bin\Debug\host.exe
+행복서비스 서비스를 설치하고 있습니다...
+행복서비스 서비스가 설치되었습니다.
+EventLog 소스 행복서비스을(를) 로그 Application에 만들고 있습니다...
+어셈블리 'D:\TRASHCAN\commtool\CommTool\Host\bin\Debug\host.exe'을(를) 커밋하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = 
+   logfile = D:\TRASHCAN\commtool\CommTool\Host\bin\Debug\host.InstallLog
+   assemblypath = D:\TRASHCAN\commtool\CommTool\Host\bin\Debug\host.exe
+어셈블리 'D:\TRASHCAN\commtool\CommTool\Host\bin\Debug\host.exe'을(를) 제거하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = 
+   logfile = D:\TRASHCAN\commtool\CommTool\Host\bin\Debug\host.InstallLog
+   assemblypath = D:\TRASHCAN\commtool\CommTool\Host\bin\Debug\host.exe
+EventLog 소스 행복서비스을(를) 제거하고 있습니다.
+시스템에서 행복서비스 서비스를 제거하고 있습니다...
+행복서비스 서비스가 시스템에서 제거되었습니다.
