@@ -25,7 +25,7 @@ namespace Server
             LogFile.WriteLog("OnStart");
 
             //  Create the sub working thread...
-            Thread thread_handler = new Thread(socketMain.StartSocket);
+            Thread thread_handler = new Thread(this.StartSocket);
             thread_handler.IsBackground = true;
             thread_handler.Start();
         }
@@ -93,11 +93,30 @@ namespace Server
         }
         #endregion
 
+        #region StopSocket
+        public void StopSocket()
+        {
+            try
+            {
+                if (server != null)
+                    server.Stop();
+            }
+            catch (SocketException se)
+            {
+                LogFile.WriteLog(se.Message, LogFile.LogCode.Error);
+            }
+            catch (Exception ex)
+            {
+                LogFile.WriteLog(ex.Message, LogFile.LogCode.Error);
+            }
+        }
+        #endregion
+
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
             LogFile.WriteLog("OnStop");
 
-            socketMain.StopSocket();
+            this.StopSocket();
         }
     }
 }
